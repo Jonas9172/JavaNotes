@@ -45,8 +45,14 @@
 
   ![图片](https://github.com/Jonas9172/JavaNotes/assets/105164575/a5f1a298-1292-4c48-871c-d91780e6f6d7)
 
-
+9. 工厂模式（有多个工厂类，一个产品抽象类，工厂模式利用多态创建不同的产品对象，并使对象创建过程延迟到子类进行，不展示具体实现过程）：
    
+   <img width="485" alt="屏幕截图 2024-02-20 064519" src="https://github.com/Jonas9172/JavaNotes/assets/105164575/9d7dceb5-b767-4ac9-a463-37ad27416295">
+
+10. 抽象工厂模式（多个工厂类，多个产品抽象类）：
+
+   ![图片](https://github.com/Jonas9172/JavaNotes/assets/105164575/2a9dcd52-b520-4237-8a7a-cbaff4654d92)
+
 
 
 
